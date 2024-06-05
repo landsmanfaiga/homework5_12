@@ -19,6 +19,7 @@ const Pending = () => {
 
     return (
         <div className="container">
+            <h1>Pending</h1>
             <table className="table table-hover table-striped table-bordered">
                 <thead>
                     <tr>

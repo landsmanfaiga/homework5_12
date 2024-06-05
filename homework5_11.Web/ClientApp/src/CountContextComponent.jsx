@@ -33,7 +33,7 @@ const CountContextComponent = (props) => {
         pendingCount,
         confirmedCount,
         refusedCount,
-        refreshCount,
+        refreshCount
     }
 
     return < CountContext.Provider value={obj}>

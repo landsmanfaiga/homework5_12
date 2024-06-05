@@ -22,7 +22,6 @@ const Confirmed = () => {
             <div>
                 <h1>Confirmed</h1>
                 <div>
-                    <button className="btn btn-success">Toggle Notes</button>
                     <table className="table table-hover table-striped table-bordered table-hover">
                         <thead>
                             <tr>
